@@ -22,4 +22,4 @@ I'm a passionate B.Tech student currently studying in the 3rd year at Asansol En
 ## Connect with Me
 Let's Connect
 Don't hesitate to connect with me on LinkedIn to discuss tech, share ideas, or collaborate on exciting projects!
-[LinkedIn](www.linkedin.com/in/parmita-maji-b458b82bb)
+[LinkedIn](www.linkedin.com/in/parmitamaji)
