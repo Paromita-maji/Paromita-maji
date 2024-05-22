@@ -12,6 +12,7 @@ I'm a passionate B.Tech student currently studying in the 3rd year at Asansol En
 - 💬 Ask me about anything related to Java, web development, or SQL.
 
 ## My Skills
+-c++
 - Java Programming
 - DSA
 - Web Development (HTML, CSS, JavaScript)
